@@ -1,0 +1,52 @@
+.*excel.*	Excel
+.*word.*	Word
+.*sharepoint.*	SharePoint
+.*powerpoint.*	PowerPoint
+.*python.*	Python
+.*access.*	Access
+.*project.*	Project
+.*illustrator.*	Illustrator
+.*photoshop.*	Photoshop
+.*tableau.*	Tableau
+.*\br\b.*	R
+.*matlab.*	Matlab
+.*matplot.*	Matplotlib
+.*jupyter.*	Jupyter Notebook
+.*spss.*	SPSS
+.*power.?bi.*	Power BI
+.*ckan.*	CKAN
+.*oracle.*	Oracle
+.*neo4j.*	Neo4J
+.*draw.?io.*	Draw.IO
+.*test.?student.*	No Answer
+.*vos.?viewer.*	VosViewer
+.*twitter.*	Twitter API
+.*tibco.*	Tibco Spotfire
+.*spotfire.*	Tibco Spotfire
+.*javascript.*	Javascript
+.*sql.*	SQL
+.*vba.*	VBA
+.*atlas.?ti.*	Atlas.Ti
+.*sk.?learn.*	Scikit-Learn
+.*scikit.*	Scikit-Learn
+.*rhino.*	Rhino
+.*rest.?api.*	Rest API
+.*\brest\b.*	Rest API
+.*\bprocessing\b.*	Processing.Js
+.*regular.?exp.*	Regular Expression
+.*\bre\b.*	Regular Expression
+.*plot.?ly.*	Plotly
+.*bi.?tool.*	Bi Tools
+.*adobe.?suit.*	Adobe Suites
+.*d3.?js.*	D3.js
+.*three.?js.*	Three.js
+.*shell.*	Shell
+.*unix.*	Unix
+.*google.?chart.*	Google Charts
+.*google.?sheet.*	Google Sheets
+.*google.?api.*	Google API
+.*ggplot.*	Ggplot
+.*\betl\b.*	Etl Tools
+.*none.*	None
+.*n/a.*	None
+.*\bna\b.*	None
